@@ -6,7 +6,7 @@ namespace TaskBasicAsync
   {
     static void Main(string[] args)
     {
-      TaskExamplesFactory.Create(TaskConcept.SchedulingTask).Execute();
+      TaskExamplesFactory.Create(TaskConcept.InvokeThreads).Execute();
 
       Console.ReadLine();
     }

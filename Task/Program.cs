@@ -6,7 +6,7 @@ namespace TaskBasicAsync
   {
     static void Main(string[] args)
     {
-      TaskExamplesFactory.Create(TaskConcept.WaitForTaskResult).Execute();
+      TaskExamplesFactory.Create(TaskConcept.ChainingTask).Execute();
 
       Console.ReadLine();
     }

@@ -4,6 +4,7 @@
   {
     CreateTask,
     WaitTask,
-    WaitForTaskResult
+    WaitForTaskResult,
+    ChainingTask
   }
 }

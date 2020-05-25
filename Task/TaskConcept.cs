@@ -3,6 +3,7 @@
   public enum TaskConcept
   {
     CreateTask,
-    WaitTask
+    WaitTask,
+    WaitForTaskResult
   }
 }

@@ -5,6 +5,7 @@
     CreateTask,
     WaitTask,
     WaitForTaskResult,
-    ChainingTask
+    ChainingTask,
+    SchedulingTask
   }
 }

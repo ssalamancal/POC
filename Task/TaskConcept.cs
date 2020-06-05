@@ -7,6 +7,8 @@
     WaitForTaskResult,
     ChainingTask,
     SchedulingTask,
-    InvokeThreads
+    InvokeThreads,
+    AsyncTask,
+    AsyncTask2
   }
 }
